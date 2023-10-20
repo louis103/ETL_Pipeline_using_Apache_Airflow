@@ -15,3 +15,6 @@
 
 ### SQL query on postgreSQL AdventureWorks database to fetch imported tables
 <img alt="postgresCreate" src="https://raw.githubusercontent.com/louis103/ETL_Pipeline_using_Apache_Airflow/main/screenshots/Screenshot%20(1565).png" />
+
+### Apache Airflow DAG workflow process(product_etl_dag)
+<img alt="postgresCreate" src="https://raw.githubusercontent.com/louis103/ETL_Pipeline_using_Apache_Airflow/main/screenshots/Screenshot%20(1578).png" />
