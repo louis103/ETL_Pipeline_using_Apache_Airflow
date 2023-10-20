@@ -13,5 +13,5 @@
 ### Sample data processing code
 <img alt="postgresCreate" src="https://raw.githubusercontent.com/louis103/ETL_Pipeline_using_Apache_Airflow/main/screenshots/Screenshot%20(1566).png" />
 
-### SQL query on postgreSQL AdventureWorks database to fetch cleaned data
+### SQL query on postgreSQL AdventureWorks database to fetch imported tables
 <img alt="postgresCreate" src="https://raw.githubusercontent.com/louis103/ETL_Pipeline_using_Apache_Airflow/main/screenshots/Screenshot%20(1565).png" />
